@@ -1,0 +1,7 @@
+Paginas visitadas:
+-https://www.php.net/manual/en/function.filter-input.php
+-https://www.php.net/manual/en/function.filter-input-array.php
+-https://www.php.net/manual/en/function.str-starts-with.php
+-https://www.php.net/manual/en/function.str-split.php
+-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox
+-https://www.php.net/manual/en/function.in-array.php
